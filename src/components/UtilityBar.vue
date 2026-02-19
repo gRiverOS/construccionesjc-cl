@@ -6,9 +6,9 @@
         <span>Llolleo · San Antonio, Santo Domingo, Lo Abarca y alrededores</span>
       </div>
       <div class="flex items-center gap-6">
-        <a href="tel:+56912345678" class="flex items-center gap-2 text-white hover:text-orange-400 transition-colors">
+        <a href="tel:+56923907201" class="flex items-center gap-2 text-white hover:text-orange-400 transition-colors">
           <iconify-icon icon="solar:phone-calling-linear" width="14" stroke-width="1.5" />
-          +56 9 1234 5678
+          +56 9 2390 7201
         </a>
       </div>
     </div>

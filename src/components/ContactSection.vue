@@ -12,7 +12,7 @@
 
       <div class="reveal-wait delay-200">
         <a
-          href="https://wa.me/56912345678"
+          href="https://wa.me/56923907201"
           target="_blank"
           rel="noopener noreferrer"
           class="btn-beam inline-block rounded-full p-[1px] hover:scale-105 transition-transform duration-300"

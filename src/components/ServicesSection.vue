@@ -2,7 +2,7 @@
   <section id="servicios" class="py-32 md:py-40">
     <div class="max-w-[1600px] mx-auto w-[90%] grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-32 items-start">
       <div class="reveal-wait sticky top-32">
-        <span class="text-orange-500 text-xs font-semibold tracking-[0.2em] uppercase mb-4 block">Nuestra Expertise</span>
+        <span class="text-orange-500 text-xs font-semibold tracking-[0.2em] uppercase mb-4 block">Nuestra Experiencia</span>
         <h2 class="text-4xl md:text-6xl font-serif font-light tracking-tight text-white mb-6">
           Maestría <br />
           Material.
@@ -16,8 +16,8 @@
               <iconify-icon icon="solar:verified-check-linear" width="24" stroke-width="1.5" />
             </div>
             <div>
-              <h4 class="text-white font-medium mb-1">Garantía de Obra</h4>
-              <p class="text-sm text-stone-500">Respaldo total post-venta en todas las terminaciones.</p>
+              <h4 class="text-white font-medium mb-1">Garantía de Satisfacción</h4>
+              <p class="text-sm text-stone-500">Nuestra experiencia y el buen trabajo en cada etapa son la mejor garantía: una obra bien hecha es la base de su satisfacción.</p>
             </div>
           </div>
         </div>

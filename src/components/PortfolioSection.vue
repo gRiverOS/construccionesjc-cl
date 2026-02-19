@@ -3,10 +3,13 @@
     <div class="max-w-[1600px] mx-auto w-[90%]">
       <div class="reveal-wait flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
         <div>
-          <span class="text-orange-500 text-xs font-semibold tracking-[0.2em] uppercase mb-4 block">Selección de Obras</span>
+          <span class="text-orange-500 text-xs font-semibold tracking-[0.2em] uppercase mb-4 block">Selección de trabajos terminados</span>
           <h2 class="text-4xl md:text-5xl font-serif font-light tracking-tight text-white">
             La Colección.
           </h2>
+          <p class="text-stone-400 font-light mt-3 max-w-xl">
+            Proyectos entregados con clientes felices y satisfechos con el resultado.
+          </p>
         </div>
         <a href="#" class="group flex items-center gap-2 text-sm text-white border-b border-transparent hover:border-white transition-all pb-1">
           Ver todos los proyectos

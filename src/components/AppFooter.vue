@@ -62,7 +62,7 @@
           </div>
           <div class="flex gap-3 items-center">
             <iconify-icon icon="solar:phone-calling-linear" class="text-orange-500 shrink-0" width="16" stroke-width="1.5" />
-            <a href="tel:+56912345678" class="hover:text-white transition-colors">+56 9 1234 5678</a>
+            <a href="tel:+56923907201" class="hover:text-white transition-colors">+56 9 2390 7201</a>
           </div>
           <div class="flex gap-3 items-center">
             <iconify-icon icon="solar:letter-linear" class="text-orange-500 shrink-0" width="16" stroke-width="1.5" />

@@ -24,9 +24,6 @@
         </a>
       </div>
 
-      <p class="reveal-wait delay-300 mt-8 text-sm text-stone-600">
-        Respuesta garantizada en menos de 24 horas.
-      </p>
     </div>
   </section>
 </template>

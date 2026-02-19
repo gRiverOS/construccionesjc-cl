@@ -24,7 +24,7 @@
       </h1>
 
       <p class="reveal-wait delay-200 reveal-active text-lg md:text-xl text-stone-400 font-light max-w-2xl leading-relaxed mb-12">
-        Especialistas en la intersección entre ingeniería estructural y terminaciones de lujo. Transformamos espacios residenciales y comerciales con precisión milimétrica.
+        Experiencia y calidad en cada etapa de la obra. Obra gruesa y terminaciones hechas con el cuidado del oficio: buen resultado, plazos cumplidos y un trabajo que perdura en el tiempo.
       </p>
 
       <div class="reveal-wait delay-300 reveal-active flex flex-col sm:flex-row gap-4">

@@ -9,7 +9,7 @@
           <span class="text-white font-semibold uppercase tracking-tight">Construcciones JC</span>
         </div>
         <p class="text-stone-500 leading-relaxed mb-6">
-          Construcción y terminaciones de calidad en la costa central: San Antonio, Santo Domingo, Lo Abarca y alrededores. Calidad certificada, plazos cumplidos y terminaciones impecables.
+          Construcción y terminaciones de calidad en Santo Domingo, San Juan y Lo Abarca. Costa central. Calidad certificada, plazos cumplidos y terminaciones impecables.
         </p>
       </div>
 
@@ -46,10 +46,9 @@
       <div class="col-span-1">
         <h4 class="text-white font-medium mb-6 uppercase tracking-widest text-xs">Cobertura</h4>
         <ul class="space-y-4 text-stone-500">
-          <li><span class="cursor-default">San Antonio</span></li>
           <li><span class="cursor-default">Santo Domingo</span></li>
+          <li><span class="cursor-default">San Juan</span></li>
           <li><span class="cursor-default">Lo Abarca</span></li>
-          <li><span class="cursor-default">Llolleo y alrededores</span></li>
         </ul>
       </div>
 

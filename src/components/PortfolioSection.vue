@@ -25,7 +25,7 @@
             class="w-full h-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.19,1,0.22,1)] group-hover:scale-105 group-hover:grayscale-0 grayscale-[20%]"
           />
           <div class="absolute bottom-0 left-0 w-full p-8 bg-gradient-to-t from-black/80 to-transparent translate-y-4 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500">
-            <span class="text-xs text-orange-400 tracking-wider uppercase mb-1 block">San Antonio</span>
+            <span class="text-xs text-orange-400 tracking-wider uppercase mb-1 block">Santo Domingo</span>
             <h3 class="text-xl text-white font-medium">Remodelación Cocina Open Concept</h3>
           </div>
         </div>
@@ -37,7 +37,7 @@
             class="w-full h-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.19,1,0.22,1)] group-hover:scale-105 group-hover:grayscale-0 grayscale-[20%]"
           />
           <div class="absolute bottom-0 left-0 w-full p-8 bg-gradient-to-t from-black/80 to-transparent translate-y-4 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500">
-            <span class="text-xs text-orange-400 tracking-wider uppercase mb-1 block">Santo Domingo</span>
+            <span class="text-xs text-orange-400 tracking-wider uppercase mb-1 block">San Juan</span>
             <h3 class="text-xl text-white font-medium">Ampliación Living & Terraza</h3>
           </div>
         </div>

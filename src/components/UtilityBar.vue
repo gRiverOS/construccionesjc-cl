@@ -3,7 +3,7 @@
     <div class="max-w-[1600px] mx-auto w-[90%] flex flex-col md:flex-row justify-between items-center gap-2 md:gap-0">
       <div class="flex items-center gap-2">
         <iconify-icon icon="solar:map-point-linear" width="14" stroke-width="1.5" />
-        <span>Llolleo · San Antonio, Santo Domingo, Lo Abarca y alrededores</span>
+        <span>Santo Domingo · San Juan · Lo Abarca</span>
       </div>
       <div class="flex items-center gap-6">
         <a href="tel:+56923907201" class="flex items-center gap-2 text-white hover:text-orange-400 transition-colors">

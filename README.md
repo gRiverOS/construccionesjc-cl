@@ -90,6 +90,23 @@ El flujo automático con `firebase init` puede fallar con *"Key creation is not 
 
 4. El workflow `.github/workflows/firebase-hosting.yml` se ejecuta en cada push a `main` y desplegará la carpeta `dist/` a Firebase Hosting.
 
+## Dominio: construccionesjc.cl
+
+El sitio está publicado en **https://construccionesjc.cl** (dominio personalizado en Firebase Hosting).
+
+### Conectar el dominio en Firebase
+
+1. Entra en [Firebase Console](https://console.firebase.google.com/project/landing-construciones-jc/hosting) → **Hosting**.
+2. En “Dominios”, haz clic en **Agregar dominio personalizado**.
+3. Escribe **construccionesjc.cl** y sigue los pasos.
+4. Firebase te mostrará registros DNS:
+   - **Tipo A**: apunta `construccionesjc.cl` a las IP que indique Firebase.
+   - **Tipo A** (o CNAME si aplica): para `www.construccionesjc.cl` si quieres que también funcione.
+5. Crea esos registros en el panel de tu proveedor de dominio (donde compraste construccionesjc.cl).
+6. La verificación puede tardar unos minutos u horas. Cuando el estado pase a “Conectado”, el sitio se servirá en **https://construccionesjc.cl** (Firebase gestiona el SSL).
+
+Mientras tanto el sitio sigue disponible en https://landing-construciones-jc.web.app.
+
 ## Estructura del proyecto
 
 - `src/App.vue` — Componente raíz y layout.
